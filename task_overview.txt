@@ -1,0 +1,7 @@
+This is information for the tasks of the users: 
+The total number of task is: 3
+The total number of task that were registed using the taskmanger is: 1
+The total number  of tasks that are completed is: 2
+The total number of tasks that are incompleteed is: 1
+The percentage of tasks that are incomplete is: 33.33
+The percentage of tasks that are incomplete and overdue is : 0.0

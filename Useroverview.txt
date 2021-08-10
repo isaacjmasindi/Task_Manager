@@ -1,0 +1,31 @@
+These is information for the users
+The total users are 4
+The total users generated using the taskmanager is 3
+
+Details for user admin
+The total number of task assigned to admin is 2
+The percentage of the total number of tasks assigned to admin is 66.67%
+ The percentage of complete is 100.0
+The percentage of uncomplete is 0%
+The percentage of overdue and incomplete is 0%
+
+Details for user caro
+The total number of task assigned to caro is 0
+The percentage of the total number of tasks assigned to caro is 0.0%
+ The percentage of complete is 0%
+The percentage of uncomplete is 0%
+The percentage of overdue and incomplete is 0%
+
+Details for user brighton
+The total number of task assigned to brighton is 1
+The percentage of the total number of tasks assigned to brighton is 33.33%
+ The percentage of complete is 0%
+The percentage of uncomplete is 100.0
+The percentage of overdue and incomplete is 0%
+
+Details for user tlhogy 
+The total number of task assigned to tlhogy  is 0
+The percentage of the total number of tasks assigned to tlhogy  is 0.0%
+ The percentage of complete is 0%
+The percentage of uncomplete is 0%
+The percentage of overdue and incomplete is 0%
